@@ -156,10 +156,10 @@ header{
 
 .home .home-slider .slide .image img{
   border-radius: 30%;
-  width: 100%;
+  width: 90%;
   z-index: -1;
   position: relative;
-  left: -6rem;
+  left: -2rem;
 }
 
 .home .home-slider .slide .content span{
